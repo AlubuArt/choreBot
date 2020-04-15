@@ -1,0 +1,2 @@
+# choreBot
+Codecademy JavaScript project
